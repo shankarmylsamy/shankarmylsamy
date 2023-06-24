@@ -12,14 +12,7 @@
 - 📃 Find my resume [here](https://drive.google.com/file/d/1nu5Att2TrLFBDZuW1pyXgrsZ22kbEo20/view?usp=sharing)
 <!-- - 🖋️ I write tech blogs on [Medium](https://sanchithasr.medium.com/) and [DEV Community](https://dev.to/sanchithasr) -->
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
-</a>
-
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/shankarmarine/github-profile-views-counter
-
-![](https://hit.yhype.me/github/profile?user_id=1849174)
+![](https://komarev.com/ghpvc/?username=shankarmarine)
 
 
 ### 📬 Where to find me
