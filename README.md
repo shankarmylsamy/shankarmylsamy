@@ -18,7 +18,7 @@
 ### 📬 Where to find me
 
 [![Linkedin Badge](https://img.shields.io/badge/-@shankarmarine-0A64BF?style=flat-square&labelColor=000000&logo=Linkedin&link=https://www.linkedin.com/in/shankarmarine/)](https://www.linkedin.com/in/shankarmarine/)
-[![Gmail Badge](https://img.shields.io/badge/-marineshankar@gmail.com-c14438?style=flat-square&labelColor=000000&logo=Gmail&link=mailto:marineshankar@gmail.com)][Email me](mailto:marineshankar@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-marineshankar@gmail.com-c14438?style=flat-square&labelColor=000000&logo=Gmail&link=mailto:marineshankar@gmail.com)](mailto:marineshankar@gmail.com)
 
 
 
