@@ -17,17 +17,15 @@
 
 ### 📬 Where to find me
 
-
 [![Linkedin Badge](https://img.shields.io/badge/-@shankarmarine-0A64BF?style=flat-square&labelColor=000000&logo=Linkedin&link=https://www.linkedin.com/in/shankarmarine/)](https://www.linkedin.com/in/shankarmarine/)
-[![Medium Badge](https://img.shields.io/badge/-@sanchithasr-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://sanchithasr.medium.com/)](https://medium.com/@sanchithasr)
-[![Gmail Badge](https://img.shields.io/badge/-sanchitha.s.r@gmail.com-c14438?style=flat-square&labelColor=000000&logo=Gmail&link=mailto:sanchitha.s.r@gmail.com)](mailto:sanchitha.s.r@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@SrSanchitha-1DA1F2?style=flat-square&labelColor=000000&logo=Twitter&link=https://twitter.com/srsanchitha)](https://twitter.com/srsanchitha)
+[![Gmail Badge](https://img.shields.io/badge/-marineshankar@gmail.com-c14438?style=flat-square&labelColor=000000&logo=Gmail&link=mailto:marineshankar@gmail.com)](mailto:marineshankar@gmail.com)
+
 
 ## 💻 Some stats
 
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=sanchithasharma&show_icons=true&theme=radical"> &nbsp; &nbsp;
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sanchithasharma&layout=compact&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=shankarmarine&show_icons=true&theme=radical"> &nbsp; &nbsp;
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shankarmarine&layout=compact&theme=tokyonight">
 </p>
