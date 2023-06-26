@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate on any web development projects.
 - 💬 Ask me about anything related to tech, health and financial planning tips.
 - 📃 Find my resume [here](https://drive.google.com/file/d/1nu5Att2TrLFBDZuW1pyXgrsZ22kbEo20/view?usp=sharing)
+- 🕸️ Checkout my portfolio [here](https://shankarmylsamy.netlify.app) 
 <!-- - 🖋️ I write tech blogs on [Medium](https://sanchithasr.medium.com/) and [DEV Community](https://dev.to/sanchithasr) -->
 
 ![](https://komarev.com/ghpvc/?username=shankarmarine)
