@@ -5,7 +5,7 @@
 #### I mostly work with Front-end technologies like JavaScript, React, etc. I have quite some experience with Node.js as well. I am currently learning about database languages.
 
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on *React.js*.
+- 🔭 I’m currently working on *React.js* and *Node.js*.
 - 🌱 I’m currently learning *Data Structures* and *Algorithms*.
 - 👯 I’m looking to collaborate on any web development projects.
 - 💬 Ask me about anything related to tech, health and financial planning tips.
