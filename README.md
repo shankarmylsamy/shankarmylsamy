@@ -1,19 +1,19 @@
-## Hello 👋 I am [Shankar](https://shankarmylsamy.netlify.app/#contact)
+## Hello 👋 I am [Shankar](https://journeywithshankar.netlify.app/#contact)
 
 #### Welcome to my Github page.
  I am a full-time software engineer who is passionate about programming. I am a music junkie.
-#### I mostly work with Front-end technologies like JavaScript, React, etc. I have quite some experience with Node.js as well. I am currently learning about database languages.
+#### HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, FastifyJS, SQL, MySQL, MongoDB | Building Modern Web Applications.
 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on *React.js* and *Node.js*.
 - 🌱 I’m currently learning *Data Structures* and *Algorithms*.
 - 👯 I’m looking to collaborate on any web development projects.
-- 💬 Ask me about anything related to tech, health and financial planning tips.
-- 📃 Find my resume [here](https://drive.google.com/file/d/1nu5Att2TrLFBDZuW1pyXgrsZ22kbEo20/view?usp=sharing)
-- 🕸️ Checkout my portfolio [here](https://shankarmylsamy.netlify.app) 
+- 💬 Ask me about anything related to tech and financial planning tips.
+- 📃 Find my resume [here](https://drive.google.com/file/d/19ioaDS8TfyPDfdO57VcUDDlIj_kRvL0v/view?usp=sharing)
+- 🕸️ Checkout my portfolio [here](https://journeywithshankar.netlify.app) 
 <!-- - 🖋️ I write tech blogs on [Medium](https://sanchithasr.medium.com/) and [DEV Community](https://dev.to/sanchithasr) -->
 
-![](https://komarev.com/ghpvc/?username=shankarmarine)
+![](https://komarev.com/ghpvc/?username=journeywithshankar)
 
 <h3>Things I code with</h3>
 <p>
@@ -34,8 +34,8 @@
 
 ### 📬 Where to find me
 
-[![Linkedin Badge](https://img.shields.io/badge/-@shankarmarine-0A64BF?style=flat-square&labelColor=000000&logo=Linkedin&link=https://www.linkedin.com/in/shankarmarine/)](https://www.linkedin.com/in/shankarmarine/)
-[![Gmail Badge](https://img.shields.io/badge/-marineshankar@gmail.com-c14438?style=flat-square&labelColor=000000&logo=Gmail&link=mailto:marineshankar@gmail.com)](mailto:marineshankar@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-@journeywithshankar-0A64BF?style=flat-square&labelColor=000000&logo=Linkedin&link=https://www.linkedin.com/in/journeywithshankar/)](https://www.linkedin.com/in/journeywithshankar/)
+[![Gmail Badge](https://img.shields.io/badge/-journeywithshankar@gmail.com-c14438?style=flat-square&labelColor=000000&logo=Gmail&link=mailto:journeywithshankar@gmail.com)](mailto:journeywithshankar@gmail.com)
 
 
 
@@ -44,6 +44,6 @@
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=shankarmarine&show_icons=true&theme=radical"> &nbsp; &nbsp;
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shankarmarine&layout=compact&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=journeywithshankar&show_icons=true&theme=radical"> &nbsp; &nbsp;
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=journeywithshankar&layout=compact&theme=tokyonight">
 </p>
