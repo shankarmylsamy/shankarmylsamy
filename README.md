@@ -39,11 +39,18 @@
 
 
 
-## 💻 Some stats
+## 😄 Cool Stats
 
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=journeywithshankar&show_icons=true&theme=radical"> &nbsp; &nbsp;
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=journeywithshankar&layout=compact&theme=tokyonight">
+<!--   <img src = "https://github-readme-stats.vercel.app/api?username=journeywithshankar&show_icons=true&theme=radical"> &nbsp; &nbsp;
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=journeywithshankar&layout=compact&theme=tokyonight"> -->
+ 
+ ![Shankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=journeywithshankar&show_icons=true&theme=radical)
+
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=journeywithshankar&theme=radical)
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=journeywithshankar&layout=compact&theme=radical&langs_count=6)
+ 
 </p>
