@@ -1,4 +1,4 @@
-## Hello 👋 I am [Shankar](https://journeywithshankar.netlify.app/#contact)
+## Hello 👋 I am [Shankar](https://shankarmylsamy.netlify.app/#contact)
 
 #### Welcome to my Github page.
  I am a full-time software engineer who is passionate about programming. I am a music junkie.
