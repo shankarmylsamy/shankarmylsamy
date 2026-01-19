@@ -34,8 +34,8 @@
 
 ### 📬 Where to find me
 
-[![Linkedin Badge](https://img.shields.io/badge/-@journeywithshankar-0A64BF?style=flat-square&labelColor=000000&logo=Linkedin&link=https://www.linkedin.com/in/journeywithshankar/)](https://www.linkedin.com/in/journeywithshankar/)
-[![Gmail Badge](https://img.shields.io/badge/-journeywithshankar@gmail.com-c14438?style=flat-square&labelColor=000000&logo=Gmail&link=mailto:journeywithshankar@gmail.com)](mailto:journeywithshankar@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-@shankarmylsamy-0A64BF?style=flat-square&labelColor=000000&logo=linkedin&link=https://www.linkedin.com/in/shankarmylsamy/)](https://www.linkedin.com/in/shankarmylsamy/)
+[![Gmail Badge](https://img.shields.io/badge/-marineshankar@gmail.com-c14438?style=flat-square&labelColor=000000&logo=Gmail&link=mailto:marineshankar@gmail.com)](mailto:marineshankar@gmail.com)
 
 
 
@@ -47,10 +47,10 @@
 <!--   <img src = "https://github-readme-stats.vercel.app/api?username=journeywithshankar&show_icons=true&theme=radical"> &nbsp; &nbsp;
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=journeywithshankar&layout=compact&theme=tokyonight"> -->
  
- ![Shankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=journeywithshankar&show_icons=true&theme=radical)
+ ![Shankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shankarmylsamy&show_icons=true&theme=radical)
 
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=journeywithshankar&theme=radical)
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shankarmylsamy&theme=radical)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=journeywithshankar&layout=compact&theme=radical&langs_count=6)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankarmylsamy&layout=compact&theme=radical&langs_count=6)
  
 </p>
