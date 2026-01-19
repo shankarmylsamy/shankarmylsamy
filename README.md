@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on any web development projects.
 - 💬 Ask me about anything related to tech and financial planning tips.
 - 📃 Find my resume [here](https://drive.google.com/file/d/19ioaDS8TfyPDfdO57VcUDDlIj_kRvL0v/view?usp=sharing)
-- 🕸️ Checkout my portfolio [here](https://journeywithshankar.netlify.app) 
+- 🕸️ Checkout my portfolio [here](https://shankarmylsamy.netlify.app) 
 <!-- - 🖋️ I write tech blogs on [Medium](https://sanchithasr.medium.com/) and [DEV Community](https://dev.to/sanchithasr) -->
 
 ![](https://komarev.com/ghpvc/?username=shankarmylsamy)
@@ -34,7 +34,7 @@
 
 ### 📬 Where to find me
 
-[![Linkedin Badge](https://img.shields.io/badge/-@shankarmylsamy-0A64BF?style=flat-square&labelColor=000000&logo=linkedin&link=https://www.linkedin.com/in/shankarmylsamy/)](https://www.linkedin.com/in/shankarmylsamy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shankarmylsamy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shankarmylsamy/)
 [![Gmail Badge](https://img.shields.io/badge/-marineshankar@gmail.com-c14438?style=flat-square&labelColor=000000&logo=Gmail&link=mailto:marineshankar@gmail.com)](mailto:marineshankar@gmail.com)
 
 
@@ -44,8 +44,8 @@
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-<!--   <img src = "https://github-readme-stats.vercel.app/api?username=journeywithshankar&show_icons=true&theme=radical"> &nbsp; &nbsp;
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=journeywithshankar&layout=compact&theme=tokyonight"> -->
+<!--   <img src = "https://github-readme-stats.vercel.app/api?username=shankarmylsamy&show_icons=true&theme=radical"> &nbsp; &nbsp;
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shankarmylsamy&layout=compact&theme=tokyonight"> -->
  
  ![Shankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shankarmylsamy&show_icons=true&theme=radical)
 
