@@ -13,7 +13,7 @@
 - 🕸️ Checkout my portfolio [here](https://journeywithshankar.netlify.app) 
 <!-- - 🖋️ I write tech blogs on [Medium](https://sanchithasr.medium.com/) and [DEV Community](https://dev.to/sanchithasr) -->
 
-![](https://komarev.com/ghpvc/?username=journeywithshankar)
+![](https://komarev.com/ghpvc/?username=shankarmylsamy)
 
 <h3>Things I code with</h3>
 <p>
